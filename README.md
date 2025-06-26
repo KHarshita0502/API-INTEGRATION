@@ -22,3 +22,8 @@ Task-3 required us to create a real-time collaborative document editor — simil
 Task 4: Chrome Extension for Time Tracking and Productivity Analytics
 Task-4 was about developing a Chrome Extension that tracks how much time a user spends on different websites and classifies them as productive or unproductive. The backend script (background.js) runs as a service worker and tracks site activity using chrome.tabs APIs. The frontend (popup.html, popup.js, style.css) displays a breakdown of usage time in a clean popup UI. The time is stored using chrome.storage.local, and users can view real-time productivity stats by clicking the extension icon. Optionally, a dashboard or weekly report could be implemented using Chart.js and Firebase. This task was a deep dive into Chrome APIs, extension architecture, and local data handling — ideal for real-world productivity tools.
 
+*OUTPUT:![Image](https://github.com/user-attachments/assets/df3ca892-6b97-4de0-8b34-2769ded0ba47)
+
+![Image](https://github.com/user-attachments/assets/82aab277-1ffc-49e6-b718-15fb2309b5de)
+
+![Image](https://github.com/user-attachments/assets/13145a4c-ae78-4d05-a3c1-2dafebe8ac4a)
